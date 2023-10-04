@@ -20,10 +20,6 @@ My passion lies in leveraging these interests to solve real-world problems, cont
 
 ## 🌱 I’m currently learning ...
 
-I'm always eager to expand my knowledge and skills. Currently, I'm focused on:
-
-## 🌱 I’m currently learning ...
-
 As a tech enthusiast, I believe in the importance of continuous learning and staying updated with the ever-evolving technology landscape. Currently, I'm focused on enhancing my skills and knowledge in the following areas:
 
 - **Test Automation:** Automation testing is an area that's always evolving. I'm continually honing my skills in test automation tools such as Selenium and TestNG to keep up with industry best practices and ensure that the software I work on is of the highest quality.

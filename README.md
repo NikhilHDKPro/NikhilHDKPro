@@ -31,7 +31,7 @@ This ongoing learning journey is not only about acquiring new technical skills b
 
 ## 💞️ I’m looking to collaborate on ...
 
-I'm open to collaborating on exciting projects and contributing to the open-source community. If you're working on something interesting and need help or just want to collaborate, feel free to reach out. I'm interested in projects related to:
+I'm open to collaborating on exciting projects and contributing to the open-source community. If you're working on something interesting and need help or just want to collaborate, feel free to reach out. I'm interested in projects related to Automating tests and developing applications.
 
 "I'm thrilled about the opportunity to dive into the OpenCart project and create complex test cases. OpenCart is a powerful and versatile e-commerce platform, and testing it thoroughly presents a fascinating challenge. Building intricate test scenarios not only allows me to explore the intricacies of this platform but also contributes to ensuring its robustness and reliability. I'm excited to tackle this project head-on, push the boundaries of what's possible, and contribute to the seamless functioning of OpenCart for businesses and users worldwide."
 

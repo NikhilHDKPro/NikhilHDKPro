@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm Nikhil, and I'm passionate about software test
 
 I have a keen interest in several areas of technology, and some of my key interests include:
 
-- Automation Testing: I have a strong background in automated testing and quality assurance. I specialize in using tools like Selenium for web automation,
+- **Automation Testing:** I have a strong background in automated testing and quality assurance. I specialize in using tools like Selenium for web automation,
 - Maven for project management, and TestNG for test execution. I find satisfaction in building robust test suites that ensure software reliability.
 
 - Development Tools: I'm proficient in using development tools like Eclipse as my primary Integrated Development Environment (IDE) for Java projects.

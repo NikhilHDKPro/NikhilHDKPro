@@ -16,7 +16,7 @@ I have a keen interest in several areas of technology, and some of my key intere
 
 - **Version Control:** I'm a strong advocate for using GitHub for version control and collaboration. I believe that good version control practices are essential for efficient teamwork and project management.
 
-## My passion lies in leveraging these interests to solve real-world problems, contribute to open-source projects, and collaborate with like-minded individuals in the tech community. If you share any of these interests or are working on exciting projects in these areas, I'd love to connect and explore potential collaborations.
+My passion lies in leveraging these interests to solve real-world problems, contribute to open-source projects, and collaborate with like-minded individuals in the tech community. If you share any of these interests or are working on exciting projects in these areas, I'd love to connect and explore potential collaborations.
 
 ## 🌱 I’m currently learning ...
 

@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @NikhilHDKPro
+# 👋 Hi, I’m @NikhilHadke
 
 Welcome to my GitHub profile! I'm Nikhil, and I'm passionate about software test Engineering, automation testing, software development, and data science.
 
